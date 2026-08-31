@@ -8,3 +8,13 @@ An AI-powered code analysis application that uses an Ollama model to detect bugs
 - 💡 **Smart Suggestions:** Suggests actionable improvements
 - 📊 **Structured Feedback:** Provides complete breakdown (Summary, Bugs, Performance, Improvements, Rating)
 - 🧠 **Multi-Language Support:** Works with Java, Python, JavaScript, and more
+<hr>
+## 🛠️ Tech Stack
+
+| Layer | Technology |
+| :--- | :--- |
+| **Backend** | Java, Spring Boot |
+| **ORM** | Spring Data JPA |
+| **Database** | MySQL |
+| **AI** | Ollama Model |
+| **Editor** | IntelliJ IDEA |
