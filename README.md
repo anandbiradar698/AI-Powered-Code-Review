@@ -9,7 +9,7 @@ An AI-powered code analysis application that uses an Ollama model to detect bugs
 - 📊 **Structured Feedback:** Provides complete breakdown (Summary, Bugs, Performance, Improvements, Rating)
 - 🧠 **Multi-Language Support:** Works with Java, Python, JavaScript, and more
 <hr>
-## 🛠️ Tech Stack
+ 🛠️ Tech Stack
 
 | Layer | Technology |
 | :--- | :--- |
