@@ -19,7 +19,7 @@ An AI-powered code analysis application that uses an Ollama model to detect bugs
 | **AI** | Ollama Model |
 | **Editor** | IntelliJ IDEA |
 <hr>
-## 🧠 How It Works
+ 🧠 How It Works
 
 1. 📝 **User enters code** I.
 2. 🚀 **Request is sent** to the Spring Boot backend.
